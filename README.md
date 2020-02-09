@@ -11,7 +11,7 @@
    즉, 사람의 목소리가 패스워드를 대체
    
 * Neural Network<br>
- - 생물의 신경세포와 그 네트워크의 움직임에서 힌트를 얻은 기계 학습 시스템
+ - 생물의 신경세포와 그 네트워크의 움직임에서 힌트를 얻은 기계 학습 시스템<br>
  - 분류기로 Feed Forward Neural Network 사용
  
 * MFCC(Mel-Frequency Cepstral Coefficients)<br>
