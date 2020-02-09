@@ -8,3 +8,4 @@
 * MFCC 특징 추출 알고리즘과 음성녹음기능은 open source 를 사용하여 프로젝트에 맞게 수정했습니다.
 
 ### 애플리케이션 
+<img src = "./img/app.png" title = "app screen" alt="app screen"><img/>
