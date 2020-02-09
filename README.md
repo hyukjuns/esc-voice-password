@@ -8,7 +8,13 @@
 * MFCC 특징 추출 알고리즘과 음성녹음기능은 open source 를 사용하여 프로젝트에 맞게 수정했습니다.
 
 ### 알고리즘
-//<img src = "./img/app.png" title = "app screen" alt="app screen"><img/>
+<img src = "./img/algorithm.png" title = "app screen" alt="app screen"><img/>
 
 ### 애플리케이션 화면
 <img src = "./img/app.png" title = "app screen" alt="app screen"><img/>
+
+### Matlab nprtool
+<img src = "./img/matlab_neural.png" title = "app screen" alt="app screen"><img/>
+
+### Matlab 실험 결과
+<img src = "./img/matlabresult.png" title = "app screen" alt="app screen"><img/>
