@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+    <TextView
+        android:id="@+id/first"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_weight="0.5"
+        android:text="Click the Button and Speak your password"
+        android:textSize="30dp"
+        android:textColor="#000000"/>
+
+    <ToggleButton
+
+        android:id="@+id/start"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/selector_button"
+        android:gravity="bottom|center_horizontal"
+        android:textOff=""
+        android:textOn="Click to Stop"
+        android:textSize="20dp" />
+
+    <Button
+        android:id="@+id/login"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|center"
+        android:layout_marginTop="50dp"
+        android:text="LOGIN"
+        android:textColor="#ffffff"
+        android:textSize="15dp"
+        android:background="#000000"
+
+        />
+
+</LinearLayout>
