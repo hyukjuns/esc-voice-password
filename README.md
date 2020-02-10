@@ -1,4 +1,4 @@
-# Voice password
+# Voice password ##2017.09 ~ 2018.01
 * Java, Android Studio2.3, Matlab2016 nprtool, Gold wave
 
 * 뉴럴네트워크는 매트랩의 nprtool에서 역전파알고리즘에 의해 학습된 뉴럴 가중치를 사용합니다.
