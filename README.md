@@ -18,7 +18,7 @@
       - 분류기로 Feed Forward Neural Network 사용
  
    * MFCC(Mel-Frequency Cepstral Coefficients)<br>
-      - 목소리의 특징은 음성신호처리 분야에서 음성의 특성을 표현하기 위해 주로 사용되는 
+      - 목소리의 특징은 음성신호처리 분야에서 음성의 특성을 표현하기 위해 주로 사용되는 
          MFCC로 특징을 추출
 
 ### * 알고리즘
